@@ -52,7 +52,7 @@ Deployed at: [https://quick-ai-frontend.vercel.app/](https://quick-ai-frontend.v
 ### 1. Clone the repository
 
 ```bash
- git clone https://github.com/Jagg2611/QuickAI.gi
+git clone https://github.com/Jagg2611/QuickAI.gi
 cd QuickAI
 
 ```
